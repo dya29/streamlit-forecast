@@ -1,0 +1,17 @@
+Bussiness Understanding
+Pada Bussiness Understanding proyek ini bertujuan untuk memahami tentang bisnis ataupun untuk saving, yaitu bagaimana meningkatkan akurasi prediksi harga Emas perbulannya agar dapat memberikan informasi yang lebih akurat dalam pengambilan keputusan bisnis atau saving yang lebih baik.
+
+Data Understanding
+Time Series (Monthly)
+Date : waktu per bulan dari tahun 1979 sampai 2022
+IDR : harga dalam rupiah
+
+Data Preparation (mulai dari df.info())
+
+Model (mulai dari single)
+
+Evaluation Model (mulai dari perbandingan algoritma)
+
+Deployment (pickel)
+Streamlit
+link
